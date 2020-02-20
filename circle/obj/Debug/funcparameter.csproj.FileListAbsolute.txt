@@ -1,0 +1,7 @@
+d:\Users\Admin\source\repos\circle\circle\bin\Debug\circle.exe.config
+d:\Users\Admin\source\repos\circle\circle\bin\Debug\circle.exe
+d:\Users\Admin\source\repos\circle\circle\bin\Debug\circle.pdb
+d:\Users\Admin\source\repos\circle\circle\obj\Debug\funcparameter.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\circle\circle\obj\Debug\funcparameter.csproj.CoreCompileInputs.cache
+d:\Users\Admin\source\repos\circle\circle\obj\Debug\circle.exe
+d:\Users\Admin\source\repos\circle\circle\obj\Debug\circle.pdb
